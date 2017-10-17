@@ -2,7 +2,6 @@
 
 ## Screenshots
 
-
 ![Appium Celik Gumusdag](https://github.com/celikgumusdag/appium-driver-manager/blob/master/img/1.PNG)
 
 ![Appium Celik Gumusdag](https://github.com/celikgumusdag/appium-driver-manager/blob/master/img/2.PNG)
